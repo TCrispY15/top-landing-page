@@ -18,6 +18,10 @@ html, body {
     padding-left: 300px;
     padding-right: 300px;
 }
+
+.logo {
+    color: #f9faf8;
+}
 .header-links {
     display: flex;
 }
@@ -46,6 +50,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    width: 600px;
 }
 
 .hero-right img {
@@ -83,6 +88,9 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #1f2937;
+    font-weight: bolder;
+    font-size: 36px;
 }
 
 .cards {
@@ -117,4 +125,5 @@ a {
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 18px;
+    margin-top: auto;
 }
