@@ -1,2 +1,6 @@
 # top-landing-page
-This is just the first git push to get things going!
+The Big Rig Porject
+photos by:
+https://www.pexels.com/@thatguycraig000 - Craig Adderley
+
+https://www.pexels.com/@quintingellar - Quintin Gellar

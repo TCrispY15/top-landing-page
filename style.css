@@ -92,6 +92,8 @@ a {
     width: 150px;
     height: 50px;
     font-size: 24px;
+    border: 1px whitesmoke;
+    border-style: solid;
 }
 
 .top-white {
@@ -125,7 +127,11 @@ a {
     width: 197px;
     display: flex;
     flex-direction: column;
-    border: #3882f6;
+    border: #3882f6 8px;
+    border-style: solid;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
 }
 
 .grey {
@@ -146,6 +152,7 @@ a {
     display: flex;
     justify-content: flex-end;
     font-weight: bolder;
+    padding-top: 24px;
 }
 
 .bottom {
@@ -179,16 +186,22 @@ a {
 }
 
 .bottom button {
-    background-color: black;
+    background-color: #3882f6;
     color: whitesmoke;
     border-radius: 8px;
     border: none;
     width: 150px;
     height: 50px;
     font-size: 24px;
+    border: 1px white;
+    border-style: solid;
 
 }
 
+button:hover {
+    background-color: rgb(14, 45, 221);
+    color: whitesmoke;
+}
 
 .footer {
     display: flex;
